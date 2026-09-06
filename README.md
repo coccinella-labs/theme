@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/basebin/theme/main/.github/assets/thumbnail.png" alt="theme" width="100%">
+  <img src="https://raw.githubusercontent.com/Coccinella-Labs/theme/main/.github/assets/thumbnail.png" alt="theme" width="100%">
 </p>
 
 # Black Theme for VS Code
