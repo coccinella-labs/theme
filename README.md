@@ -24,7 +24,7 @@ Or use specific commands:
 
 ## Repository
 
-Part of harpertoken projects: <https://github.com/harpertoken>
+Part of harpertoken projects: <https://github.com/coccinella-labs>
 
 ## License
 

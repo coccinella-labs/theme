@@ -10,7 +10,7 @@
 
 If you discover a security vulnerability, please report it by:
 
-1. **Email**: Create an issue at <https://github.com/harpertoken>
+1. **Email**: Create an issue at <https://github.com/coccinella-labs>
 2. **Response Time**: We aim to respond within 48 hours
 3. **Disclosure**: Please allow us to fix the issue before public disclosure
 

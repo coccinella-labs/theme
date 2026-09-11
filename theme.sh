@@ -1,7 +1,7 @@
 #!/bin/bash
 # SPDX-License-Identifier: MIT
-# Copyright (c) 2026 harpertoken
-# Repository: https://github.com/harpertoken
+# Copyright (c) 2026 coccinella-labs
+# Repository: https://github.com/coccinella-labs
 
 SETTINGS_PATH="$HOME/Library/Application Support/Code/User/settings.json"
 THEME_MARKER="# harpertoken-black-theme-applied"
